@@ -16,7 +16,7 @@ From JeromeBarthelemy's repository :
 * From JeromeBarthelemy's repository : Cours [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_00.ipynb)
     
      * From Anatou's repository : TD 00_1 - Les bases de python [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Anatou/ENSI-1ere/master?filepath=TD_00_1.ipynb)
-     * From Anatou's repository : TD 00_1 - Les bases de python [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Anatou/ENSI-1ere/master?filepath=TP_00.ipynb)
+     * From Anatou's repository : TP 00 - Le code ISBN d'un livre [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Anatou/ENSI-1ere/master?filepath=TP_00.ipynb)
      
      
      
