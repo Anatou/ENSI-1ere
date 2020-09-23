@@ -21,7 +21,7 @@ From JeromeBarthelemy's repository :
 ### Chapitre 1 - Représentation des données : types et valeurs de base
 1. From JeromeBarthelemy's repository : Introduction [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_01_intro.ipynb)
 2. From Anatou's repository : Les nombres entiers naturels [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Anatou/ENSI-1ere/master?filepath=cours_01_B.ipynb)
-  * From JeromeBarthelemy's repository : TD - Les changements de base [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TD_01_1.ipynb)
+  * From Anatou's repository : TD - Les changements de base [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Anatou/ENSI-1ere/master?filepath=TD_01_1.ipynb)
 3. From JeromeBarthelemy's repository : Les nombres entiers relatifs [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_01_C.ipynb)
 4. From JeromeBarthelemy's repository : Les nombres réels [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_01_D.ipynb)
 
