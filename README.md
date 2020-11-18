@@ -36,7 +36,7 @@ From JeromeBarthelemy's repository :
   * From Anatou's repository : TD - Les tuples [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Anatou/ENSI-1ere/master?filepath=TD_02_1.ipynb)
   * Corrigé du TD [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TD_02_1_correct.ipynb)
 3. Les listes [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_02_C.ipynb)
-  * TD - Les listes [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TD_02_2.ipynb)
+  * From Anatou's repository : TD - Les listes [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Anatou/ENSI-1ere/master?filepath=TD_02_2.ipynb)
   * Corrigé du TD [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TD_02_2_correct.ipynb)
 
 
