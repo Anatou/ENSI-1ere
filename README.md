@@ -48,7 +48,7 @@ From JeromeBarthelemy's repository :
   * TD - Les établissements scolaires de France [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TD_03.ipynb)
   * Corrigé du TD [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TD_03_correct.ipynb)
   * TP - Villes et pays du monde [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TP_03_1.ipynb)
-  * TP - Le Titanic [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TP_03_2.ipynb)
+  * From Anatou's repository : TP - Le Titanic [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Anatou/ENSI-1ere/master?filepath=TP_03_2.ipynb)
   * TP - Bulletin Météo [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TP_03_3.ipynb)
 
 
