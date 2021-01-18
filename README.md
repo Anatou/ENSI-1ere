@@ -50,7 +50,9 @@ From JeromeBarthelemy's repository :
   * TP - Villes et pays du monde [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TP_03_1.ipynb)
   * From Anatou's repository : TP - Le Titanic [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Anatou/ENSI-1ere/master?filepath=TP_03_2.ipynb)
   * From Anatou's repository : TP - Bulletin Météo [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Anatou/ENSI-1ere/master?filepath=TP_03_3.ipynb)
-
+### Chapitre 4 - Algorithmique
+  1. Principes d'algorithmique [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Anatou/ENSI-1ere/master?filepath=cours_04_intro.ipynb)
+  * Exercices - [Complexite](https://github.com/JeromeBarthelemy/NSI1ere/blob/master/Exercices_complexite.pdf)
 
      
 This work is licensed under a
